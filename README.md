@@ -1,0 +1,1 @@
+(there are both 32 and 64 bit versions). It's working with Windows GDI API, which is the only one supporting hardware accelerated direct drawing of primitives, including XOR mode. Probably some examples from the packed have to be amended to get them working as 64bit applications. In subfolder build/lib/RelWithDebInfo are ready to use binaries: alleg44.lib and alleg44.dll.
